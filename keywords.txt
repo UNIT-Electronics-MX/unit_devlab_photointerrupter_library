@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For DevLab_PhotoInterrupter
+#######################################
+
+DevLab_PhotoInterrupter	KEYWORD1
+DevLab_PhotoInterrupter_State	KEYWORD1
+
+begin	KEYWORD2
+beginRecovered	KEYWORD2
+readBlocked	KEYWORD2
+readRaw	KEYWORD2
+readPercentage	KEYWORD2
+readStatus	KEYWORD2
+readCount	KEYWORD2
+resetCount	KEYWORD2
+poll	KEYWORD2
+busReady	KEYWORD2
+isConnected	KEYWORD2
+address	KEYWORD2
+deviceInfo	KEYWORD2
+printInfo	KEYWORD2
+protocol	KEYWORD2
+bus	KEYWORD2
+
+DEVICE_ID	LITERAL1
+DEFAULT_ADDRESS	LITERAL1
+STATUS_BLOCKED	LITERAL1
+STATUS_EDGE	LITERAL1
+STATUS_ADC_ERROR	LITERAL1
